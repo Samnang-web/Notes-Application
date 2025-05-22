@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: 'https://localhost:7023/api', // ប្ដូរតាម API របស់អ្នក
+  baseURL: 'https://localhost:7166/api', // ប្ដូរតាម API របស់អ្នក
 });
 
 instance.interceptors.request.use((config) => {
