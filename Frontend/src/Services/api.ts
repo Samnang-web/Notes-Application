@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-  baseURL: 'http://localhost:5270/api',
+  baseURL: 'https://notesapplications.onrender.com',
 })
 
 instance.interceptors.request.use(config => {
