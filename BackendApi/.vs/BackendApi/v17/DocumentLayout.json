@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\NotedApp\\BackendApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F3833E2-9970-4B56-B694-488F2AE3A71B}|BackendApi\\BackendApi.csproj|d:\\notedapp\\backendapi\\backendapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7F3833E2-9970-4B56-B694-488F2AE3A71B}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F3833E2-9970-4B56-B694-488F2AE3A71B}|BackendApi\\BackendApi.csproj|d:\\notedapp\\backendapi\\backendapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F3833E2-9970-4B56-B694-488F2AE3A71B}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,11 +85,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Dockerfile",
+              "RelativeDocumentMoniker": "BackendApi\\Dockerfile",
+              "ToolTip": "D:\\NotedApp\\BackendApi\\BackendApi\\Dockerfile",
+              "RelativeToolTip": "BackendApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-28T09:33:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Notes.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Models\\Notes.cs",
               "RelativeDocumentMoniker": "BackendApi\\Models\\Notes.cs",
@@ -93,12 +110,11 @@
               "RelativeToolTip": "BackendApi\\Models\\Notes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:14:37.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T08:14:37.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NoteController.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Controllers\\NoteController.cs",
               "RelativeDocumentMoniker": "BackendApi\\Controllers\\NoteController.cs",
@@ -106,12 +122,11 @@
               "RelativeToolTip": "BackendApi\\Controllers\\NoteController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T05:07:53.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T05:07:53.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NoteRepository.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Repository\\NoteRepository.cs",
               "RelativeDocumentMoniker": "BackendApi\\Repository\\NoteRepository.cs",
@@ -119,12 +134,11 @@
               "RelativeToolTip": "BackendApi\\Repository\\NoteRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T06:01:24.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T06:01:24.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "INoteRepository.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Repository\\INoteRepository.cs",
               "RelativeDocumentMoniker": "BackendApi\\Repository\\INoteRepository.cs",
@@ -132,12 +146,11 @@
               "RelativeToolTip": "BackendApi\\Repository\\INoteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T05:21:19.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T05:21:19.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "BackendApi\\Models\\User.cs",
@@ -150,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "BackendApi\\DTOs\\UserDto.cs",
@@ -158,12 +171,11 @@
               "RelativeToolTip": "BackendApi\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:43:49.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T01:43:49.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NotesDto.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\DTOs\\NotesDto.cs",
               "RelativeDocumentMoniker": "BackendApi\\DTOs\\NotesDto.cs",
@@ -171,12 +183,11 @@
               "RelativeToolTip": "BackendApi\\DTOs\\NotesDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T04:42:44.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T04:42:44.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "BackendApi\\Controllers\\AuthController.cs",
@@ -184,12 +195,11 @@
               "RelativeToolTip": "BackendApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T03:07:14.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T03:07:14.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Program.cs",
               "RelativeDocumentMoniker": "BackendApi\\Program.cs",
@@ -197,12 +207,11 @@
               "RelativeToolTip": "BackendApi\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:58:18.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T05:58:18.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "BackendApi\\Repository\\UserRepository.cs",
@@ -210,12 +219,11 @@
               "RelativeToolTip": "BackendApi\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T06:02:23.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T06:02:23.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "BackendApi\\Repository\\IUserRepository.cs",
@@ -223,12 +231,11 @@
               "RelativeToolTip": "BackendApi\\Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:55:13.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T01:55:13.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BackendApi\\Services\\UserService.cs",
@@ -236,12 +243,11 @@
               "RelativeToolTip": "BackendApi\\Services\\UserService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:58:30.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T01:58:30.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\to-do-list\\TotoApi\\TotoApi\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "..\\..\\to-do-list\\TotoApi\\TotoApi\\Service\\UserService.cs",
@@ -249,12 +255,11 @@
               "RelativeToolTip": "..\\..\\to-do-list\\TotoApi\\TotoApi\\Service\\UserService.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T02:02:40.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T02:02:40.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\appsettings.json",
               "RelativeDocumentMoniker": "BackendApi\\appsettings.json",
@@ -262,12 +267,11 @@
               "RelativeToolTip": "BackendApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T05:57:56.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T05:57:56.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "BackendApi\\Services\\IUserService.cs",
@@ -275,12 +279,11 @@
               "RelativeToolTip": "BackendApi\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T03:11:19.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T03:11:19.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "NoteService.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Services\\NoteService.cs",
               "RelativeDocumentMoniker": "BackendApi\\Services\\NoteService.cs",
@@ -292,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "INoteService.cs",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\Services\\INoteService.cs",
               "RelativeDocumentMoniker": "BackendApi\\Services\\INoteService.cs",
@@ -304,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BackendApi.csproj",
               "DocumentMoniker": "D:\\NotedApp\\BackendApi\\BackendApi\\BackendApi.csproj",
               "RelativeDocumentMoniker": "BackendApi\\BackendApi.csproj",
