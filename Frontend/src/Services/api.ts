@@ -1,16 +1,15 @@
-import axios from 'axios'
+import axios from "axios";
 
 const instance = axios.create({
-  baseURL: 'http://localhost:5000/api',
-  //'https://notesapplications.onrender.com',
-})
+  baseURL: "https://notes-application-5ll4.onrender.com/api",
+});
 
-instance.interceptors.request.use(config => {
-  const token = localStorage.getItem('token') 
+instance.interceptors.request.use((config) => {
+  const token = localStorage.getItem("token");
   if (token) {
-    config.headers.Authorization = `Bearer ${token}`
+    config.headers.Authorization = `Bearer ${token}`;
   }
-  return config
-})
+  return config;
+});
 
-export default instance
+export default instance;

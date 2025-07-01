@@ -51,7 +51,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("https://notes-application-83rs.vercel.app", "http://localhost:5173")
+        policy.WithOrigins("https://notes-application-1g64.vercel.app")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
