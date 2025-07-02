@@ -44,3 +44,4 @@ D:\Note Application\NoteApi\noteApi\obj\Debug\net8.0\refint\NoteApi.dll
 D:\Note Application\NoteApi\noteApi\obj\Debug\net8.0\NoteApi.pdb
 D:\Note Application\NoteApi\noteApi\obj\Debug\net8.0\NoteApi.genruntimeconfig.cache
 D:\Note Application\NoteApi\noteApi\obj\Debug\net8.0\ref\NoteApi.dll
+D:\Note Application\NoteApi\NoteApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

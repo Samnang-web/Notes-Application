@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sCsQCnkaEzc=",
+  "dgSpecHash": "0FHi44ttYNw=",
   "success": true,
-  "projectFilePath": "D:\\Note Application\\NoteApi\\noteApi\\NoteApi.csproj",
+  "projectFilePath": "D:\\Note Application\\NoteApi\\NoteApi\\NoteApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ah Poch\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
     "C:\\Users\\Ah Poch\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.14\\microsoft.aspnetcore.authentication.jwtbearer.8.0.14.nupkg.sha512",
